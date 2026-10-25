@@ -1,0 +1,112 @@
+$date
+	Sun Oct 25 16:41:59 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module decoder_3_8_tb $end
+$var wire 8 ! out [7:0] $end
+$var reg 1 " en $end
+$var reg 3 # in [2:0] $end
+$var integer 32 $ i [31:0] $end
+$scope module uut $end
+$var wire 1 " en $end
+$var wire 3 % in [2:0] $end
+$var reg 8 & out [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 &
+b0 %
+b0 $
+b0 #
+0"
+b0 !
+$end
+#10
+b1 #
+b1 %
+b1 $
+#20
+b10 #
+b10 %
+b10 $
+#30
+b11 #
+b11 %
+b11 $
+#40
+b100 #
+b100 %
+b100 $
+#50
+b101 #
+b101 %
+b101 $
+#60
+b110 #
+b110 %
+b110 $
+#70
+b111 #
+b111 %
+b111 $
+#80
+b1 !
+b1 &
+1"
+b0 #
+b0 %
+b1000 $
+#90
+b10 !
+b10 &
+b1 #
+b1 %
+b1001 $
+#100
+b100 !
+b100 &
+b10 #
+b10 %
+b1010 $
+#110
+b1000 !
+b1000 &
+b11 #
+b11 %
+b1011 $
+#120
+b10000 !
+b10000 &
+b100 #
+b100 %
+b1100 $
+#130
+b100000 !
+b100000 &
+b101 #
+b101 %
+b1101 $
+#140
+b1000000 !
+b1000000 &
+b110 #
+b110 %
+b1110 $
+#150
+b10000000 !
+b10000000 &
+b111 #
+b111 %
+b1111 $
+#160
+b10000 $
